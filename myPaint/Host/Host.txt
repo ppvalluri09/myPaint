@@ -1,0 +1,16 @@
+FTP: http://mypaint.ueuo.com/ftp/index.php
+Website: http://mypaint.ueuo.com/
+Help: https://ramses.freewha.com/cgi-bin/create_ini.cgi
+
+
+FTP Server/Host:
+
+mypaint.ueuo.com
+
+FTP Login/Username:
+
+mypaint.ueuo.com
+
+FTP PassWord:
+
+Ilivetocode09
